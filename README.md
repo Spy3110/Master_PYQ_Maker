@@ -14,3 +14,7 @@ P.S. It will even clean the individually downloaded pdfs from your working space
 3. Select your branch, sem and subject and ENTER
 4. Look into the folder same as where this python file is, you'll find the MASTER_PYQ.pdf!
 5. Enjoy~ and dont forget to study
+
+# Want to add some new features?
+You're absolutely welcome to add your new ideas on it! Just do a pull request on it 😸 
+I made the base, you can build the skyscraper on it!
