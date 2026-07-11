@@ -27,9 +27,9 @@ def get_user_choice():
     if branch_choice == "1":
         branch_code = "btech-cse"
     elif branch_choice == "2":
-        branch_code = "btech-e"
+        branch_code = "btech-e-all"
     elif branch_choice == "3":
-        branch_code = "btech-e"
+        branch_code = "btech-e-all"
     elif branch_choice == "4":
         branch_code = "btech-me"
     elif branch_choice == "5":
@@ -46,7 +46,7 @@ def get_user_choice():
     if branch_code == "rgpv-first-year":
         target_url = "https://www.rgpvonline.com/rgpv-first-year.html#list"
     else:
-        target_url = f"https://rgpvonline.com/{branch_code}-all-question-papers.html#{semester}s"
+        target_url = f"https://rgpvonline.com/{branch_code}-question-papers.html#{semester}s"
 
     return target_url, subject_query
 #-----------------------------------------------------------------------------------------------------------
