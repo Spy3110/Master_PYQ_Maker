@@ -54,12 +54,13 @@ pip install requests beautifulsoup4 pypdf
 1. Clone this repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Spy3110/Master_PYQ_Maker
 ```
 
 2. Run the script
 
 ```bash
+cd Master_PYQ_Maker
 python main.py
 ```
 
